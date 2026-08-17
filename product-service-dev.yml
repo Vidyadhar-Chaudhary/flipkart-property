@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://vidyadharsinfolix_db_user:8rAbExci2sHeuMCz@mycluster1.dz0sm4i.mongodb.net/?appName=MyCluster1
