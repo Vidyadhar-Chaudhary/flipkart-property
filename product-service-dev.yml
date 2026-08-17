@@ -1,3 +1,4 @@
 spring:
-  mongodb:
-    uri: mongodb+srv://vidyadharsinfolix_db_user:8rAbExci2sHeuMCz@mycluster1.dz0sm4i.mongodb.net/flipkartProducts?appName=MyCluster1
+  data:
+    mongodb:
+      uri: mongodb+srv://vidyadharsinfolix_db_user:8rAbExci2sHeuMCz@mycluster1.dz0sm4i.mongodb.net/flipkartProducts?appName=MyCluster1
